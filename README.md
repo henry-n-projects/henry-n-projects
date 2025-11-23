@@ -62,7 +62,7 @@ I enjoy working across the full stack — from crafting SwiftUI interfaces to de
 
 ## 📌 Featured Projects
 
-### 🏠 **Brik — Roommate-Finder iOS App (SwiftUI)**  
+###  **Brik — Roommate-Finder iOS App (SwiftUI)**  
 A Tinder-style roommate matching app with swipe gestures, onboarding, profiles, and real-time Firestore integration.  
 **Tech:** SwiftUI, Firebase, MVVM  
  *Repo link*
@@ -90,7 +90,7 @@ I'm currently expanding my skills in backend architecture, cloud deployment, and
 ---
 
 ## 📫 Connect with Me  
--  LinkedIn — (https://www.linkedin.com/in/henry-nguyen-419841287/)
+-  LinkedIn — https://www.linkedin.com/in/henry-nguyen-419841287/
 -  Email — henryn.contact@gmail.com
 
 ---
@@ -106,4 +106,3 @@ I'm currently expanding my skills in backend architecture, cloud deployment, and
 ---
 
 Thanks for visiting my profile 👋  
-Always learning, building, and shipping.
