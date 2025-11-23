@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Henry Nguyen
 
-###  Software Engineering Student | Mobile & Full-Stack Developer  
+###  Software Engineering Graduate | Mobile & Full-Stack Developer  
 SwiftUI • React • Node.js • Express • TypeScript • Docker • C# • C++
 
 I'm a passionate developer focused on building clean, modern, and user-centric applications.  
