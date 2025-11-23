@@ -30,8 +30,7 @@ I enjoy working across the full stack — from crafting SwiftUI interfaces to de
 
 ### **Frontend**
 - SwiftUI  
-- React  
-- TypeScript  
+- React   
 - HTML / CSS  
 
 ### **Backend**
@@ -56,7 +55,9 @@ I enjoy working across the full stack — from crafting SwiftUI interfaces to de
 - TypeScript  
 - JavaScript  
 - C#  
-- C++  
+- C++
+- PHP
+- Python
 
 ---
 
