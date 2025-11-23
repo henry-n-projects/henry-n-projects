@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Henry Nguyen
 
-### 🎓 Software Engineering Student | Mobile & Full-Stack Developer  
+###  Software Engineering Student | Mobile & Full-Stack Developer  
 SwiftUI • React • Node.js • Express • TypeScript • Docker • C# • C++
 
 I'm a passionate developer focused on building clean, modern, and user-centric applications.  
@@ -90,8 +90,8 @@ I'm currently expanding my skills in backend architecture, cloud deployment, and
 ---
 
 ## 📫 Connect with Me  
--  LinkedIn — *coming soon*  
--  Email — *add your email here*  
+-  LinkedIn — (https://www.linkedin.com/in/henry-nguyen-419841287/)
+-  Email — henryn.contact@gmail.com
 
 ---
 
