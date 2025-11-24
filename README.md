@@ -71,7 +71,7 @@ A Tinder-style roommate matching app with swipe gestures, onboarding, profiles, 
 ---
 
 ###  **PomodoroPlus — Productivity Timer App**  
-A cross-platform desktop productivity app with session tagging, analytics, real-time UI updates, and CSV/PDF export.  
+Web productivity app with session tagging, analytics, real-time UI updates, and reccomendations.  
 **Tech:** Electron, React, Node.js, Express, Prisma, PostgreSQL, Docker  
  *Repo link*
 
