@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Henry Nguyen
+#  Hi, I'm Henry Nguyen
 
 ###  Software Engineering Graduate | Mobile & Full-Stack Developer  
 SwiftUI • React • Node.js • Express • TypeScript • Docker • C# • C++
@@ -8,7 +8,7 @@ I enjoy working across the full stack — from crafting SwiftUI interfaces to de
 
 ---
 
-## 💼 Experience
+## - Experience
 
 ### **Mobile Developer Intern — TouchGreen (2025)**
 - Contributed to the development of mobile game features at a startup studio.  
@@ -26,7 +26,7 @@ I enjoy working across the full stack — from crafting SwiftUI interfaces to de
 
 ---
 
-## 🚀 Tech Stack
+## - Tech Stack
 
 ### **Frontend**
 - SwiftUI  
@@ -61,7 +61,7 @@ I enjoy working across the full stack — from crafting SwiftUI interfaces to de
 
 ---
 
-## 📌 Featured Projects
+## - Featured Projects
 
 ###  **Brik — Roommate-Finder iOS App (SwiftUI)**  
 A Tinder-style roommate matching app with swipe gestures, onboarding, profiles, and real-time Firestore integration.  
