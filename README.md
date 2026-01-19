@@ -70,10 +70,11 @@ A Tinder-style roommate matching app with swipe gestures, onboarding, profiles, 
 
 ---
 
-###  **PomodoroPlus — Productivity Timer App**  
+###  **MomentumPlus — Productivity Timer App**  
 Web productivity app with session tagging, analytics, real-time UI updates, and reccomendations.  
-**Tech:** React, Node.js, Express, Prisma, PostgreSQL, Docker, Passport.js  
- *Repo link*
+**Tech:** React, Node.js, Express, Prisma, PostgreSQL, Docker, Passport.js
+**Hosting:** Frontend: Vercel, Backend: Railway, Auth: Google 
+ *[WebApp Link](https://momentumplus-frontend.vercel.app/)*
 
 ---
 
