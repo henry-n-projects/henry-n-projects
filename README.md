@@ -74,7 +74,9 @@ A Tinder-style roommate matching app with swipe gestures, onboarding, profiles, 
 Web productivity app with session tagging, analytics, real-time UI updates, and reccomendations.  
 **Tech:** React, Node.js, Express, Prisma, PostgreSQL, Docker, Passport.js
 **Hosting:** Frontend: Vercel, Backend: Railway, Auth: Google 
- *[WebApp Link](https://momentumplus-frontend.vercel.app/)*
+ *[MomentumPlus Link](https://momentumplus-frontend.vercel.app/)*
+ *[Frontend Link](https://github.com/henry-n-projects/MomentumPlus-frontend)*
+ *[Backend Link](https://github.com/henry-n-projects/MomentumPlus-backend)*
 
 ---
 
